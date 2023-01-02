@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "admin",
+        "MONGO_PASSWORD": "admin",
+        "MONGO_DB": "nodeCourse1",
+        "STRIPE_KEY": "sk_test_51MEuq6GA3tJp3iSl804ZAeOM08RprOcncqtMQSwuEUUmLtU7NkntNPcbcaQQrYWqau2pbrn81NjzMJLIMC4gXsKT005tFBUaT1"
+    }
+}
